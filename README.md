@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/iamarslankhalid/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:marslankhalid@gmail.com">
+    <a href="mailto:iarslankhalidd@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
       <a href="https://Kaggle.com/iamarslankhalid">
