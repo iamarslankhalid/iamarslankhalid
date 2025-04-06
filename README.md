@@ -35,7 +35,7 @@ Here are some ideas to get you started:
       <a href="https://Kaggle.com/iamarslankhalid">
       <img src="https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
     </a>
-    <a href="https://www.instagram.com/_arslan.khalid/">
+    <a href="https://www.instagram.com/arslankhalidd/">
       <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="https://twitter.com/iamarslankhalid">
