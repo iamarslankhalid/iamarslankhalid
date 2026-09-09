@@ -97,22 +97,12 @@ I am a `Data & AI Engineer` <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## 🔝 **Featured Projects**
 
-<p align="center">
-  <a href="https://github.com/iamarslankhalid/acelt">
-    <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=iamarslankhalid&repo=acelt&theme=tokyonight&hide_border=true" alt="ACELT - AI-Integrated Learning Platform (FYP)" />
-  </a>
-  <a href="https://github.com/iamarslankhalid/Thyroid-Disease-Detection">
-    <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=iamarslankhalid&repo=Thyroid-Disease-Detection&theme=tokyonight&hide_border=true" alt="Thyroid Disease Detection" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/iamarslankhalid/Sales-Dashboard">
-    <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=iamarslankhalid&repo=Sales-Dashboard&theme=tokyonight&hide_border=true" alt="Sales Dashboard - Power BI" />
-  </a>
-  <a href="https://github.com/iamarslankhalid/HR-Analytics-Dashboard">
-    <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=iamarslankhalid&repo=HR-Analytics-Dashboard&theme=tokyonight&hide_border=true" alt="HR Analytics Dashboard" />
-  </a>
-</p>
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| 🏆 **[ACELT](https://github.com/iamarslankhalid/acelt)** | AI-integrated learning platform with a Gemini-powered mock test engine — *1st Place, CUI Wah Open House 2025* | `Flutter` `Firebase` `Python` `RAG` |
+| 🩺 **[Thyroid Disease Detection](https://github.com/iamarslankhalid/Thyroid-Disease-Detection)** | ML pipeline classifying thyroid conditions at **91.6%** test accuracy | `Python` `scikit-learn` `Pandas` |
+| 📈 **[Sales Dashboard](https://github.com/iamarslankhalid/Sales-Dashboard)** | Interactive sales insights with forecasting for strategic decisions | `Power BI` `DAX` |
+| 👥 **[HR Analytics Dashboard](https://github.com/iamarslankhalid/HR-Analytics-Dashboard)** | Attrition drivers and hiring insights in dark & light themes | `Power BI` `DAX` |
 
 <p align="center">
   <a href="https://github.com/iamarslankhalid?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-Explore%20All%20Repos-2962FF?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -121,25 +111,29 @@ I am a `Data & AI Engineer` <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> **GitHub Stats**
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=iamarslankhalid&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Arslan's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=iamarslankhalid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamarslankhalid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://ghchart.rshah.org/2f80ed/iamarslankhalid" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamarslankhalid&theme=github_dark" />
+    <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamarslankhalid&theme=github" alt="GitHub Stats" />
+  </picture>
+  <img width="50%" src="https://streak-stats.demolab.com?user=iamarslankhalid&hide_border=true&background=00000000&stroke=00000000&ring=0366D6&fire=0366D6&currStreakNum=0366D6&currStreakLabel=0366D6&sideNums=77909C&sideLabels=77909C&dates=6A737D" alt="Contribution Streak" />
 </p>
 
 ## 📈 **Profile Summary**
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamarslankhalid&theme=tokyonight" alt="Profile Stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamarslankhalid&theme=tokyonight" alt="Repos per Language" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamarslankhalid&theme=github_dark" />
+    <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamarslankhalid&theme=github" alt="Top Languages by Commit" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamarslankhalid&theme=github_dark" />
+    <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamarslankhalid&theme=github" alt="Top Languages by Repository" />
+  </picture>
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamarslankhalid&theme=tokyonight" alt="Profile Details" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamarslankhalid&theme=github_dark" />
+    <img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamarslankhalid&theme=github" alt="Contribution Activity" />
+  </picture>
 </p>
